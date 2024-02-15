@@ -35,3 +35,4 @@ TEST_CASE("Test Get Tip Amount") {
     double actual_tip_amount_2 = get_tip_amount(20, 20);
     REQUIRE(actual_tip_amount_2 == expected_tip_amount_2);
 }
+//done
